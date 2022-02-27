@@ -1,0 +1,275 @@
+name,location,comments count,speed,service,flavour,mean
+" Little Caesars Pizza, Bakırköy (Ataköy 8. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,448,9.1,9.2,9.0,9.1
+" Burger King, Bakırköy (Ataköy 1. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,226,8.1,7.8,7.5,7.8
+" Burger Yiyelim, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,271,9.0,8.9,8.7,8.9
+" Always A Dessert, Zeytinburnu (Gökalp Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,37,8.9,8.5,8.4,8.6
+" Royal Dessert, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,7,10.0,10.0,10.0,10.0
+" Bean's Dessert, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,91,9.2,9.6,9.3,9.4
+" Bean's Dessert, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,84,9.2,9.4,9.3,9.3
+" Pasaport Pizza, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,48,9.1,9.1,8.7,9.0
+" Blue Ice Cream, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,10,9.2,9.1,8.4,8.9
+" Blue Ice Cream, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,13,8.7,8.8,8.6,8.7
+" Blue Ice Cream, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,52,8.4,8.5,8.7,8.5
+" Bean's Dessert, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,63,8.1,8.6,8.9,8.5
+" Mix Marley Burger, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,94,7.4,7.0,6.9,7.1
+" + Tatlı Zamanı, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,58,9.5,9.6,9.5,9.5
+" Brast Burger, Bahçelievler (Yenibosna Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,626,9.4,9.4,9.3,9.4
+" Burger Club, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,153,8.7,8.9,8.6,8.7
+" Ataköy Chicken Kingdom, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,45,8.6,8.7,8.6,8.6
+" Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,104,8.8,8.5,8.5,8.6
+" Abant Pide & Köfte & Kanat, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,103,8.5,8.4,8.2,8.4
+" Etiler Park, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,422,9.1,8.7,8.7,8.8
+" (1996) Bahçeli İskender, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,457,8.8,8.8,8.7,8.8
+" Divan Kebap & Kelle Paça, Bahçelievler (Yenibosna Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,259,8.7,8.4,8.4,8.5
+" Çilekli Ekler Pasta & Boşnak Börek, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,77,,8.7,8.3,8.5
+" Dürüm Box Kebap & Dürüm Evi, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,138,8.2,8.0,7.7,8.0
+" Alaturka Burger, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,242,9.3,9.3,9.1,9.2
+" Hamburg Steak Burger, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,44,9.3,9.1,9.0,9.1
+" Adıyaman Çiğ Köfte Evi Ömer Usta, Bahçelievler (Zafer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,399,9.1,9.1,9.1,9.1
+" Ali Usta Burma Kadayıf & Baklavaları, Gaziosmanpaşa (Kazım Karabekir Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,214,9.0,9.2,9.0,9.1
+" Murat Chef Meat House Burger, Güngören (Mareşal Çakmak Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,707,9.0,9.2,8.9,9.0
+" Ali Usta Burma Kadayıf & Baklavaları, Gaziosmanpaşa (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,160,9.0,9.1,8.9,9.0
+" Balıkçı Osman, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,15,9.0,9.0,8.7,8.9
+" Bakırköy Profiterol, Bakırköy (Zuhuratbaba Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,114,9.0,9.0,8.7,8.9
+" Hamburger Time, Zeytinburnu (Veliefendi Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,146,8.9,8.9,8.9,8.9
+" Tatlıcı Furkan Usta, Bahçelievler (Hürriyet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,24,8.8,8.8,8.6,8.7
+" Mersin Acı Tantuni, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,142,9.0,8.7,8.5,8.7
+" Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,40,9.0,8.7,8.5,8.7
+" Vadi Kebap & Döner, Bahçelievler (Yenibosna Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,353,8.8,8.8,8.6,8.7
+" Morina Balık Keyfi, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,171,8.9,8.7,8.5,8.7
+" XL American Hot Dog, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,35,8.8,8.7,8.4,8.6
+" Şişko Döner Kokoreç & Izgara, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,85,9.0,8.6,8.1,8.6
+" Antakya Lezzet Durağı, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,92,8.8,8.5,8.3,8.5
+" Andoğlu Künefe, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,374,8.5,8.3,8.4,8.4
+" Baran 4 Kellepaça & İşkembe & Kebap & Pide, Bağcılar (Barbaros Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,215,8.5,8.3,8.1,8.3
+" Rönesans Pilavcısı, Zeytinburnu (Yenidoğan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,76,8.8,8.3,7.6,8.2
+" Gala Kokoreç, Güngören (Sanayi Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,19,7.6,7.4,7.4,7.5
+" Mh Pizza & Döner, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,142,7.4,7.4,7.0,7.3
+" Ataköy Su & Meşrubat, Bakırköy (Ataköy 7. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,4,9.8,9.9,9.9,9.9
+" Bi Sor'be, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,23,9.9,9.7,9.8,9.8
+" Sweet Home, Bakırköy (Yenimahalle Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,313,9.7,9.7,9.7,9.7
+" Ahmet Efendi Dondurma, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,250,9.7,9.7,9.6,9.7
+" [email protected] Fresh & Fast, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,866,9.7,9.7,9.4,9.6
+" Capua Pizza, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,574,9.6,9.4,9.5,9.5
+" Derhan Pastanesi, Zeytinburnu (Telsiz Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,293,9.6,9.6,9.3,9.5
+" Sevinç Pastanesi Pasta & Tatlı & Börek, Zeytinburnu (Yenidoğan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,84,9.6,9.6,9.4,9.5
+" Sotto Pizza, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,67,9.6,9.5,9.3,9.5
+" Pizza Bulls, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,842,9.5,9.4,9.4,9.4
+" Yeşilköy Roma Dondurması, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,18,9.6,9.4,9.3,9.4
+" Midye Box, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,33,,9.7,9.2,9.4
+" Mienyu Pizza, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,249,9.5,9.5,9.3,9.4
+" Pizza Art, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,585,9.5,9.5,9.3,9.4
+" Carmen Tatlıcılık, Bakırköy (Ataköy 8. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,98,9.2,9.5,9.5,9.4
+" Burgerator, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,736,9.5,9.3,9.4,9.4
+" Arsamiea Çiğ Köfte, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,4,9.6,9.4,9.2,9.4
+" Uludağ Et Lokantası, Bakırköy (Şenlikköy Mah. - Florya) ",istanbul/bakirkoy-atakoy-3-kisim,401,9.5,9.4,9.2,9.4
+" Burger Yesek, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,592,9.4,9.3,9.3,9.3
+" Tatlım Geldi, Bakırköy (Şenlikköy Mah. - Florya) ",istanbul/bakirkoy-atakoy-3-kisim,150,9.4,9.5,9.1,9.3
+" Oses Çiğ Köfte, Bakırköy (Ataköy 7. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,128,9.5,9.3,9.2,9.3
+" Sushibucks Asian Food, Zeytinburnu (Maltepe Mah.- Cevizlibağ) ",istanbul/bakirkoy-atakoy-3-kisim,423,9.3,9.5,9.1,9.3
+" Mersin Yaprak Tantuni, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,467,9.4,9.2,9.2,9.3
+" Burger King, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,636,9.4,9.2,9.2,9.3
+" Oses Çiğ Köfte, Bakırköy (Osmaniye Mah. - Fabrikalar Cad.) ",istanbul/bakirkoy-atakoy-3-kisim,62,9.3,9.2,9.3,9.3
+" Gala Kokoreç, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,469,9.5,9.3,9.0,9.3
+" Asos Burger, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,138,9.3,9.3,9.2,9.3
+" Burger Murger, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,212,9.4,9.2,9.1,9.2
+" Suadiye Marmaris, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,273,9.4,9.2,9.0,9.2
+" Köroğlu, Bakırköy (Şenlikköy Mah. - Florya) ",istanbul/bakirkoy-atakoy-3-kisim,422,9.2,9.3,9.2,9.2
+" Oses Çiğ Köfte, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,25,9.3,9.2,9.1,9.2
+" Gaziantepli Mehmet Bey Baklavaları, Güngören (Haznedar Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,73,9.4,9.2,9.0,9.2
+" Taksim Hamburger, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,463,9.3,9.2,9.1,9.2
+" Hiroshi Sushi, Bakırköy (Şenlikköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,467,9.3,9.3,9.0,9.2
+" Oses Çiğ Köfte, Bahçelievler (Şirinevler Mah. - Çavuşpaşa Cad.) ",istanbul/bakirkoy-atakoy-3-kisim,69,9.2,9.2,9.2,9.2
+" Lavissa, Bahçelievler (Siyavuşpaşa Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,97,9.4,9.3,8.9,9.2
+" Bitez Dondurma, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,21,9.4,9.3,8.9,9.2
+" Pizza Hut, Bakırköy (Ataköy 5. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,648,9.3,9.2,9.1,9.2
+" Pizzalive, Bahçelievler (Soğanlı Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,282,9.2,9.2,9.1,9.2
+" Pardi Cafe & Restaurant, Bakırköy (Ataköy 10. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,125,9.2,9.3,8.9,9.1
+" Dürüm Ye, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,653,9.4,9.1,9.0,9.2
+" Papa John's Pizza, Bakırköy (Ataköy 7. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,179,9.2,9.2,9.0,9.1
+" İnci Profiterol, Bakırköy (Şenlikköy Mah. - Florya) ",istanbul/bakirkoy-atakoy-3-kisim,84,9.2,9.3,8.9,9.1
+" Oses Çiğ Köfte, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,30,9.0,9.2,9.2,9.1
+" Beylerbeyi Profiterol, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,319,9.0,9.2,9.2,9.1
+" Park Büfe, Bakırköy (Yeşilyurt Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,107,9.1,9.1,9.2,9.1
+" Burger Mienyu, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,93,9.2,9.2,9.0,9.1
+" Little Caesars Pizza, Bakırköy (Ataköy 8. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,448,9.1,9.2,9.0,9.1
+" Bolulu Hasan Usta, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,184,9.1,9.1,9.1,9.1
+" Burger King, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,830,9.4,9.0,8.9,9.1
+" Gurme Box, Küçükçekmece (Cennet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,301,9.2,9.0,9.0,9.1
+" Marmaris Büfe 1964, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,376,9.3,9.1,8.8,9.1
+" Komagene Etsiz Çiğ Köfte, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,21,,9.2,9.0,9.1
+" Ercan Burger, Bahçelievler (Çobançeşme Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,111,9.2,9.1,9.0,9.1
+" Kadayıfzade, Zeytinburnu (Maltepe Mah.- Cevizlibağ) ",istanbul/bakirkoy-atakoy-3-kisim,615,9.2,9.1,8.9,9.1
+" Hoora Tantuni, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,270,9.1,9.0,9.0,9.0
+" 3K1B Künefe, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,144,9.1,9.1,9.0,9.1
+" Mersin Yaprak Tantuni, Bahçelievler (Yenibosna Merkez Mah. - Basın Ekspres Yolu) ",istanbul/bakirkoy-atakoy-3-kisim,1048,9.0,9.2,8.9,9.0
+" Oses Çiğ Köfte, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,5,,9.0,9.0,9.0
+" Sandwich Club, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,543,9.2,9.0,9.0,9.1
+" Gurme Tatlı, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,16,9.1,9.2,8.8,9.0
+" Flanör, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,119,,9.1,8.9,9.0
+" Burger Go Burgere Gidelim, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,110,9.1,9.2,8.7,9.0
+" Oses Çiğ Köfte, Bakırköy (Zuhuratbaba Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,18,8.9,8.9,9.2,9.0
+" Bakırköy Namlı Dürüm & Lahmacun, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,487,9.2,8.9,8.8,9.0
+" Aone Tantuni, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,226,9.2,8.9,8.7,8.9
+" Burger Murger, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,97,9.0,9.0,8.9,9.0
+" Kanatçı Ayda, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,220,9.0,8.9,9.0,9.0
+" Sarıhan Gusto, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,141,9.0,9.1,8.8,9.0
+" Arzum Çiğ Köfte, Küçükçekmece (Söğütlüçeşme Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,56,9.2,8.9,8.8,9.0
+" Oses Çiğ Köfte, Bakırköy (Zuhuratbaba Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,31,9.3,8.9,8.7,9.0
+" Oses Çiğ Köfte, Bakırköy (Şenlikköy Mah. - Florya) ",istanbul/bakirkoy-atakoy-3-kisim,89,9.1,8.9,8.8,8.9
+" Burger Black, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,180,8.9,9.0,9.0,9.0
+" Bahçe Büfe, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,471,9.0,8.8,9.0,8.9
+" Beyoğlu Profiterol, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,9,,9.2,8.7,8.9
+" Hanzade Baklava & Sütlü Tatlı, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,276,9.1,9.2,8.6,9.0
+" Köroğlu Gurme, Bakırköy (Ataköy 5. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,34,9.0,8.8,9.0,8.9
+" Oses Çiğ Köfte, Fatih (Silivri Kapı Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,626,9.0,8.9,8.9,8.9
+" Terra Pizza - Pizza Pizza, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,311,9.1,9.0,8.7,8.9
+" Yeşilköy Pilavcısı, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,117,8.9,8.9,8.9,8.9
+" Galite Gurme, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,208,9.1,8.9,8.7,8.9
+" Çevre İskender & Kebap & Lahmacun, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,322,9.1,9.0,8.6,8.9
+" Konya Mevlana Etli Ekmek, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,427,8.8,9.0,8.9,8.9
+" Frango Burger, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,35,8.9,9.1,8.7,8.9
+" Atawich, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,208,9.2,9.0,8.5,8.9
+" Burger Yiyelim, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,271,9.0,8.9,8.7,8.9
+" Has Çiğ Köfte Dünyası, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,6,,8.8,9.0,8.9
+" Ayvaz Burger, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,14,,9.0,8.8,8.9
+" Tatlıses Çiğ Köfte, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,180,9.1,8.9,8.6,8.9
+" Şirinyer Kebap & Lahmacun, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,256,9.1,8.7,8.6,8.8
+" Oses Çiğ Köfte, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,122,8.7,8.9,8.9,8.8
+" Mrs. Yaprak Tantuni, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,153,9.0,8.8,8.6,8.8
+" Beyranet, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,77,9.0,8.9,8.5,8.8
+" Pizzaline, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,86,8.7,8.9,8.7,8.8
+" Hrn Taksim Hamburger, Bakırköy (Sakızağacı Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,168,9.0,8.8,8.5,8.8
+" Halime Sultan Ev Yemekleri, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,122,9.0,8.9,8.4,8.8
+" Mienyu Coffee, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,50,8.8,8.6,8.9,8.8
+" Apple Ice Cream, Zeytinburnu (Gökalp Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,8,8.8,8.9,8.5,8.7
+" Bubble Waffle Shop, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,152,,8.7,8.8,8.8
+" Lokmacho, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,76,,8.8,8.7,8.8
+" Asrın Şişmanoğulları Izgara Evi, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,93,9.0,8.6,8.5,8.7
+" Bursa İskender Kebap, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,223,8.9,8.6,8.5,8.7
+" Tacofit, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,157,8.5,8.9,8.6,8.7
+" Şehzade İskender, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,90,9.0,8.6,8.4,8.7
+" Pizza Grande, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,171,9.0,8.7,8.3,8.7
+" Kumpir Box, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,188,8.7,8.7,8.6,8.7
+" McDonald's, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,644,8.9,8.5,8.5,8.6
+" Komagene Etsiz Çiğ Köfte, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,108,8.5,8.7,8.7,8.6
+" Sushi Time, Zeytinburnu (Sümer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,171,8.7,8.8,8.4,8.6
+" Meşhur Yayla Kokoreççisi, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,195,9.1,8.5,8.3,8.6
+" Everyday Roastery, Bahçelievler (Hürriyet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,13,,8.9,8.3,8.6
+" Beleş Döner, Bakırköy (Zuhuratbaba Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,179,8.8,8.7,8.4,8.6
+" Antepli Fahri Ustasından, Bakırköy (Zuhuratbaba Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,177,8.9,8.7,8.4,8.7
+" Ercan Burger, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,260,8.7,8.7,8.5,8.6
+" Roma Dondurması, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,71,8.6,8.6,8.5,8.6
+" Beyzade Kokoreç, Güngören (Haznedar Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,193,8.6,8.7,8.5,8.6
+" Karadeniz Full Pide, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,94,8.6,8.4,8.6,8.5
+" Şahap Akagün Lahmacun & Pide, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,201,8.6,8.5,8.4,8.5
+" Selimiye Muhallebicisi, Zeytinburnu (Maltepe Mah.- Cevizlibağ) ",istanbul/bakirkoy-atakoy-3-kisim,185,8.6,8.6,8.3,8.5
+" Çiğ Köfte Derviş Usta, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,34,,8.5,8.5,8.5
+" Elit Profiterol & Ekler & Dondurma, Bahçelievler (Siyavuşpaşa Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,18,8.5,8.5,8.5,8.5
+" No:17 Bakery, Bakırköy (Ataköy 8. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,19,,8.6,8.3,8.4
+" Domino's Pizza, Bakırköy (Ataköy 4. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,208,8.7,8.5,8.2,8.5
+" Faruk Güllüoğlu, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,130,8.6,8.6,8.1,8.4
+" Bahçelievler Dürüm, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,51,8.4,8.4,8.5,8.4
+" Gala Kokoreç, Güngören (Haznedar Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,307,8.6,8.4,8.3,8.4
+" Tacos Hall, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,284,8.4,8.5,8.4,8.4
+" Yağcıoğlu Pastane & Restoran, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,411,8.7,8.5,8.1,8.4
+" Pilav & Kokoreç Sarayı, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,39,8.6,8.4,8.1,8.4
+" Baktat Kebap, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,65,8.5,8.4,8.3,8.4
+" Pilavcı Dünyası, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,383,8.7,8.3,8.1,8.4
+" Frango Döner & Sauce, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,217,8.5,8.5,8.1,8.4
+" Waffle Company, Bakırköy (Ataköy 8. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,84,,8.4,8.3,8.4
+" Cihan Derya Balık, Bahçelievler (Cumhuriyet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,390,8.4,8.4,8.1,8.3
+" Midyeci Mesut & Kokoreç, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,159,8.6,8.4,8.0,8.3
+" Marmaris Hamburger, Bakırköy (Ataköy 7. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,39,8.6,8.5,7.7,8.3
+" Dürüm Co, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,61,8.7,8.3,7.9,8.3
+" Cadde Kebap Hamdi Usta, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,79,8.8,8.1,7.9,8.3
+" Şöhret İşkembe Kellepaça, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,117,8.5,8.2,8.0,8.2
+" As Elit Kokoreç, Bakırköy (Ataköy 5. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,6,,8.3,8.2,8.2
+" KFC, Bakırköy (Ataköy 1. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,761,8.5,8.1,8.1,8.2
+" Zarif Dürüm, Bahçelievler (Kocasinan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,237,8.4,8.4,8.0,8.3
+" D. D. İşkembe, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,428,8.2,8.4,8.1,8.2
+" The LoQma, Bakırköy (Yeşilköy Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,195,8.4,8.4,7.9,8.2
+" Espressolab, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,46,,8.3,8.1,8.2
+" Le Monde Du Tacos, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,293,8.1,8.4,8.1,8.2
+" Çiğ Köfte Keyfim, Küçükçekmece (Yeşilova Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,14,8.5,8.1,8.0,8.2
+" Efendiler Hatay Usulü Soslu Döner, Bahçelievler (Zafer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,129,8.4,8.1,7.9,8.1
+" Arby's, Bakırköy (Ataköy 6. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,307,8.4,8.0,8.0,8.1
+" Suruç Ocakbaşı Cemal Usta'nın Yeri, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,76,8.4,8.1,7.9,8.1
+" Közde Hatay Dürümcüsü, Bahçelievler (Kocasinan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,139,8.2,8.0,8.2,8.1
+" Midye Kokoreç Ali Usta, Bahçelievler (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,198,8.6,8.2,7.6,8.1
+" Arby's, Bakırköy (Ataköy 1. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,254,8.2,8.0,8.1,8.1
+" Beleş Döner, Bahçelievler (Zafer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,194,8.2,8.0,8.0,8.1
+" Kokoreççi Şeref Usta, Küçükçekmece (İnönü Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,154,8.6,8.0,7.6,8.1
+" Midyeci Ahmet, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,168,8.3,8.2,7.7,8.1
+" Tonton Baba, Bakırköy (Ataköy 7. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,7,,8.1,7.8,7.9
+" Usta Kebap & Dürüm, Bahçelievler (Zafer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,142,8.5,7.8,7.5,7.9
+" Pilavcı Dünyası, Güngören (Güven Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,287,8.2,7.9,7.6,7.9
+" Ustam Karadeniz Pide & Güveç, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,38,8.2,7.7,7.7,7.9
+" Midyeci Koray, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,73,8.4,8.1,7.1,7.9
+" Gala Kokoreç, Bahçelievler (Şirinevler Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,141,8.3,7.9,7.4,7.9
+" (Acil) Burger, Bakırköy (Zeytinlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,85,7.9,7.8,7.8,7.8
+" Lezzet Döner, Bahçelievler (Zafer Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,163,7.7,8.0,7.8,7.8
+" Burger King, Bakırköy (Ataköy 1. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,226,8.1,7.8,7.5,7.8
+" Adana Ocakbaşı, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,53,8.1,7.7,7.5,7.8
+" Ab'bas Waffle & Kumpir, Bakırköy (Kartaltepe Mah. - İncirli) ",istanbul/bakirkoy-atakoy-3-kisim,166,8.0,7.8,7.5,7.8
+" Bay Kokoreç, Zeytinburnu (Beştelsiz Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,161,8.0,7.9,7.5,7.8
+" Paşa Döner, Bakırköy (Cevizlik Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,514,7.9,7.6,7.7,7.7
+" Adanalı Kardeşler Kebap, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,90,7.9,7.7,7.6,7.7
+" Kanatçızade, Bahçelievler (Merkez Mah. - Yayla) ",istanbul/bakirkoy-atakoy-3-kisim,150,8.2,7.7,7.3,7.7
+" Yakup Usta Baklava & Künefe, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,24,8.1,7.9,7.2,7.7
+" Künefe Cenneti, Bahçelievler (Kocasinan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,177,7.7,7.6,7.7,7.7
+" Bahçemix Büfe, Bahçelievler (Siyavuşpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,191,8.0,7.4,7.4,7.6
+" Bakırköy Osmanlı Kebap, Bakırköy (Osmaniye Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,25,8.1,7.5,7.2,7.6
+" Dürüm Max Zurna Dürüm, Bahçelievler (Hürriyet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,203,7.5,7.6,7.5,7.5
+" Pilavcı Dünyası, Güngören (Güven Mah. - Marmara Cad.) ",istanbul/bakirkoy-atakoy-3-kisim,171,7.6,7.4,7.3,7.4
+" Popeyes, Bakırköy (Ataköy 1. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,266,7.5,7.2,7.1,7.3
+" Meydan Büfe & Burger, Bahçelievler (Soğanlı Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,8,7.6,7.0,7.1,7.2
+" Cafe De Papel, Bakırköy (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,1,,7.2,7.1,7.2
+" 1991 Tarihi Ortaköy Kumpircisi, Bahçelievler (Soğanlı Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,389,7.4,7.1,7.0,7.2
+" Popeyes, Bakırköy (Ataköy 6. Kısım) ",istanbul/bakirkoy-atakoy-3-kisim,257,7.4,7.0,6.8,7.1
+" Pilavcı Dünyası, Güngören (Sanayi Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,45,7.0,6.7,6.6,6.8
+" Zeyo Paket, Kağıthane (Sultan Selim / Sanayi Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,283,9.1,9.2,8.5,8.9
+" Sushi İstanbul, Beşiktaş (Ulus Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,514,9.3,9.3,9.0,9.2
+" Çarşamba Kebap, Fatih (Ali Kuşçu Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,25,9.0,8.7,8.6,8.8
+" Köyüm Pasta & Cafe, Bayrampaşa (İsmetpaşa Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,255,8.5,8.5,8.5,8.5
+" Kahta Çiğ Köfte, Küçükçekmece (Sultanmurat Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,708,9.6,9.6,9.6,9.6
+" Bu Pide, Küçükçekmece (Atakent Mah. - 1. İkitelli Cad. Bölgesi) ",istanbul/bakirkoy-atakoy-3-kisim,633,9.0,9.0,8.9,9.0
+" Only Sushi & Chinese, Şişli (Ergenekon Mah. - Pangaltı) ",istanbul/bakirkoy-atakoy-3-kisim,830,9.3,9.0,8.6,9.0
+" Lily Gelato Tatlı & Dondurma, Beşiktaş (Dikilitaş Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,165,9.0,9.1,8.5,8.9
+" Eylül Pide & Lahmacun, Bağcılar (Fevzi Çakmak Mah. - Tabya) ",istanbul/bakirkoy-atakoy-3-kisim,80,8.7,8.4,8.4,8.5
+" Özsaray Sac Tava, Eyüp (İslambey Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,125,8.3,8.5,8.3,8.4
+" Beykoz Midye Tava, Küçükçekmece (Halkalı Merkez Mah. - Avrupa Konutları 3 Bölgesi) ",istanbul/bakirkoy-atakoy-3-kisim,40,8.8,8.6,7.4,8.3
+" Home Diyet, Beylikdüzü (Gürpınar Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,33,9.6,9.8,9.7,9.7
+" Fıstıklım Baklava, Şişli (Cumhuriyet Mah. - Bomonti) ",istanbul/bakirkoy-atakoy-3-kisim,132,9.4,9.3,9.2,9.3
+" Kokoreçci Tekin Usta, Küçükçekmece (Yeşilova Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,267,9.4,9.3,9.2,9.3
+" Fiko Gurme, Sarıyer (Poligon Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,274,9.5,9.3,9.0,9.3
+" Baklava'ki, Şişli (Duatepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,160,9.5,9.2,9.1,9.3
+" Burmalım Tatlı & Dondurma, Beşiktaş (Dikilitaş Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,187,9.4,9.2,9.1,9.2
+" Eylül Su, Bahçelievler (Fevzi Çakmak Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,8,9.2,9.0,9.4,9.2
+" Elina Meze, Beyoğlu (Yahya Kahya Mah. - Kasımpaşa) ",istanbul/bakirkoy-atakoy-3-kisim,190,9.2,9.2,9.1,9.2
+" Bahçeşehir Meze & Salata Dünyası, Başakşehir (Bahçeşehir 2. Kısım Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,112,9.0,9.4,8.9,9.1
+" Kebapçı Alim, Küçükçekmece (Atakent Mah. - 1. İkitelli Cad. Bölgesi) ",istanbul/bakirkoy-atakoy-3-kisim,210,9.1,9.0,8.8,9.0
+" Akasya Etli Ekmek & Lahmacun, Bağcılar (Evren Mah. - 15 Temmuz) ",istanbul/bakirkoy-atakoy-3-kisim,231,8.9,9.0,9.0,9.0
+" Dürümcü Anadolu Sofrası, Zeytinburnu (Veliefendi Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,10,9.1,9.1,8.6,8.9
+" Enes Dürüm Evi, Bayrampaşa (Yenidoğan Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,359,9.0,8.8,8.7,8.8
+" Mevlana Pide, Avcılar (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,852,8.8,8.8,8.7,8.8
+" Burger Extra, Zeytinburnu (Gökalp Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,272,8.8,8.8,8.7,8.8
+" Sarmaci, Esenyurt (Koza Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,424,9.0,8.9,8.3,8.7
+" Big & Deep Burger, Bahçelievler (Çobançeşme Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,252,8.8,8.8,8.6,8.7
+" Bemhan Edirne Tava Ciğeri, Beylikdüzü (Cumhuriyet Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,173,8.6,8.8,8.7,8.7
+" Kokoreç Bank, Küçükçekmece (Halkalı Merkez Mah. - Avrupa Konutları 3 Bölgesi) ",istanbul/bakirkoy-atakoy-3-kisim,136,9.0,8.7,8.3,8.7
+" Moba Kokoreç Murat Usta, Büyükçekmece (Mimaroba Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,85,8.8,8.7,8.2,8.6
+" Efendiler Döner & Kokoreç, Küçükçekmece (Kartaltepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,278,8.7,8.5,8.2,8.5
+" Burger Maxi, Başakşehir (Güvercintepe Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,194,8.3,8.3,8.4,8.3
+" Ensar Kanat & Kebap & Köfte, Güngören (Mareşal Çakmak Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,105,8.2,8.3,8.4,8.3
+" Uğrak Osman Kebap & Kellepaça & İşkembe, Kağıthane (Merkez Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,360,8.5,8.2,8.2,8.3
+" Karatava, Küçükçekmece (Fevzi Çakmak Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,101,8.2,8.5,8.1,8.3
+" Cake Yard, Başakşehir (İkitelli OSB) ",istanbul/bakirkoy-atakoy-3-kisim,31,8.2,8.3,8.1,8.2
+" Kasap Abla, Sarıyer (FSM Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,40,8.1,8.3,8.1,8.2
+" Famoso Konak 3, Bağcılar (Fevzi Çakmak Mah. - Tabya) ",istanbul/bakirkoy-atakoy-3-kisim,11,8.3,7.9,8.2,8.1
+" Tadında Döner & Kokoreç, Küçükçekmece (Tevfikbey Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,192,8.3,8.0,7.8,8.0
+" Kokoreççi Kenan Usta, Arnavutköy İlçesi (Anadolu Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,30,8.6,8.0,7.6,8.1
+" Şerif Kokoreç & Şırdan, Sultangazi (Cebeci Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,181,8.2,8.1,7.6,8.0
+" Adana Kebap & Izgara & Dürüm, Beşiktaş (Konaklar Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,101,8.1,7.9,7.7,7.9
+" Adanalım Kebap Dürüm, Kağıthane (Ortabayır Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,68,7.7,7.4,7.2,7.4
+" Bereket Pide & Lahmacun, Avcılar (Yeşilkent Mah.) ",istanbul/bakirkoy-atakoy-3-kisim,14,6.7,6.7,7.2,6.9
